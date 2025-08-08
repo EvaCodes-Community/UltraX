@@ -128,6 +128,7 @@ cd UltraX
 ```
 npm install
 ```
+* Should be installed by npm(proved)
 
 3. Start the project
 
